@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1701248772 source:c:\users\turgu\desktop\listeler\main.c
+	<stdio.h>
+	<stdlib.h>
+
